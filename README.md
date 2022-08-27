@@ -1,6 +1,7 @@
 # Blockchain-Based-Voting
 
 This project is developed for the National Level Hackathon contest (Hackfest) . 
+by  004 - TEAM META  
 We have developed this project based on the theme of Diversity and Inclusion.
 
 
